@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#292727"
+    android:orientation="vertical"
+    tools:context=".SonnyDrummerActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:weightSum="4">
+
+        <Button
+            android:id="@+id/botao1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="4dp"
+            android:layout_weight="1"
+            android:background="@drawable/botao_arredondado_ripple"
+            android:backgroundTint="#FF00AD"
+            android:text="@string/botao1"
+            android:onClick="botaoClick"/>
+
+        <Button
+            android:id="@+id/botao2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="4dp"
+            android:layout_weight="1"
+            android:background="@drawable/botao_arredondado_ripple"
+            android:backgroundTint="#FF00AD"
+            android:text="@string/botao2"
+            android:onClick="botaoClick"/>
+
+        <Button
+            android:id="@+id/botao3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="4dp"
+            android:layout_weight="1"
+            android:background="@drawable/botao_arredondado_ripple"
+            android:backgroundTint="#FF00AD"
+            android:text="Botão III"
+            android:onClick="botaoClick"/>
+
+        <Button
+            android:id="@+id/botao4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="4dp"
+            android:layout_weight="1"
+            android:background="@drawable/botao_arredondado_ripple"
+            android:backgroundTint="#FF00AD"
+            android:text="@string/botao4"
+            android:onClick="botaoClick"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:weightSum="4">
+
+        <Button
+            android:id="@+id/botao5"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="4dp"
+            android:layout_weight="1"
+            android:background="@drawable/botao_arredondado_ripple"
+            android:backgroundTint="#AB00F2"
+            android:text="@string/botao5"
+            android:onClick="botaoClick"/>
+
+        <Button
+            android:id="@+id/botao6"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="4dp"
+            android:layout_weight="1"
+            android:background="@drawable/botao_arredondado_ripple"
+            android:backgroundTint="#AB00F2"
+            android:text="@string/botao6"
+            android:onClick="botaoClick"/>
+
+        <Button
+            android:id="@+id/botao7"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="4dp"
+            android:layout_weight="1"
+            android:background="@drawable/botao_arredondado_ripple"
+            android:backgroundTint="#AB00F2"
+            android:text="@string/botao7"
+            android:onClick="botaoClick"/>
+
+        <Button
+            android:id="@+id/botao8"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="4dp"
+            android:layout_weight="1"
+            android:background="@drawable/botao_arredondado_ripple"
+            android:backgroundTint="#AB00F2"
+            android:text="@string/botao8"
+            android:onClick="botaoClick"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:weightSum="4">
+
+        <Button
+            android:id="@+id/botao9"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="4dp"
+            android:layout_weight="1"
+            android:background="@drawable/botao_arredondado_ripple"
+            android:backgroundTint="#00A5F5"
+            android:text="@string/botao9"
+            android:onClick="botaoClick"/>
+
+        <Button
+            android:id="@+id/botao10"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="4dp"
+            android:layout_weight="1"
+            android:background="@drawable/botao_arredondado_ripple"
+            android:backgroundTint="#00A5F5"
+            android:text="@string/botao10"
+            android:onClick="botaoClick"/>
+
+        <Button
+            android:id="@+id/botao11"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="4dp"
+            android:layout_weight="1"
+            android:background="@drawable/botao_arredondado_ripple"
+            android:backgroundTint="#00A5F5"
+            android:text="@string/botao11"
+            android:onClick="botaoClick"/>
+
+        <Button
+            android:id="@+id/botao12"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="4dp"
+            android:layout_weight="1"
+            android:background="@drawable/botao_arredondado_ripple"
+            android:backgroundTint="#00A5F5"
+            android:text="@string/botao12"
+            android:onClick="botaoClick"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:weightSum="4">
+
+        <Button
+            android:id="@+id/botao13"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="4dp"
+            android:layout_weight="1"
+            android:background="@drawable/botao_arredondado_ripple"
+            android:backgroundTint="#88FF19"
+            android:text="@string/botao13"
+            android:onClick="botaoClick"/>
+
+        <Button
+            android:id="@+id/botao14"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="4dp"
+            android:layout_weight="1"
+            android:background="@drawable/botao_arredondado_ripple"
+            android:backgroundTint="#88FF19"
+            android:text="@string/botao14"
+            android:onClick="botaoClick"/>
+
+        <Button
+            android:id="@+id/botao15"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="4dp"
+            android:layout_weight="1"
+            android:background="@drawable/botao_arredondado_ripple"
+            android:backgroundTint="#88FF19"
+            android:text="@string/botao15"
+            android:onClick="botaoClick"/>
+
+        <Button
+            android:id="@+id/botao16"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="4dp"
+            android:layout_weight="1"
+            android:background="@drawable/botao_arredondado_ripple"
+            android:backgroundTint="#88FF19"
+            android:text="@string/botao16"
+            android:onClick="botaoClick"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/botao17"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="4dp"
+            android:layout_weight="1"
+            android:background="@drawable/botao_arredondado_ripple"
+            android:backgroundTint="#F5A400"
+            android:text="@string/botao17"
+            android:onClick="botaoClick"/>
+    </LinearLayout>
+
+</LinearLayout>

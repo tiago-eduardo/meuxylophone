@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/botaoVermelho"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/botaoVermelho"
+        android:onClick="botaoClick" />
+
+    <Button
+        android:id="@+id/botaoLaranja"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/botaoLaranja"
+        android:onClick="botaoClick" />
+
+    <Button
+        android:id="@+id/botaoAmarelo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/botaoAmarelo"
+        android:onClick="botaoClick" />
+
+    <Button
+        android:id="@+id/botaoVerde"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/botaoVerde"
+        android:onClick="botaoClick" />
+
+    <Button
+        android:id="@+id/botaoVerdeescuro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/botaoVerdeescuro"
+        android:onClick="botaoClick" />
+
+    <Button
+        android:id="@+id/botaoAzul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/botaoAzul"
+        android:onClick="botaoClick" />
+
+    <Button
+        android:id="@+id/botaoPurpura"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@color/botaoPurpura"
+        android:onClick="botaoClick" />
+
+
+
+</LinearLayout>

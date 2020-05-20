@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+    <color name="botaoVermelho">#FC0000</color>
+    <color name="botaoLaranja">#FF8C00</color>
+    <color name="botaoAmarelo">#F8F722</color>
+    <color name="botaoVerde">#00B24E</color>
+    <color name="botaoVerdeescuro">#008F7F</color>
+    <color name="botaoAzul">#3F70F3</color>
+    <color name="botaoPurpura">#9E00A4</color>
+
+</resources>

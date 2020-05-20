@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Xylophone</string>
+    <string name="botao1">Botão I</string>
+    <string name="botao2">Botão II</string>
+    <string name="botao3">Botão III</string>
+    <string name="botao4">Botão IV</string>
+    <string name="botao5">Botão V</string>
+    <string name="botao6">Botão VI</string>
+    <string name="botao7">Botão VII</string>
+    <string name="botao8">Botão VIII</string>
+    <string name="botao9">Botão IX</string>
+    <string name="botao10">Botão X</string>
+    <string name="botao11">Botão XI</string>
+    <string name="botao12">Botão XII</string>
+    <string name="botao13">Botão XIII</string>
+    <string name="botao14">Botão XIV</string>
+    <string name="botao15">Botão XV</string>
+    <string name="botao16">Botão XVI</string>
+    <string name="botao17">Botão XVII</string>
+</resources>
